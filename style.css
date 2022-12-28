@@ -20,7 +20,7 @@ section {
     width: 50%;
     padding-top: 1%;
     padding-left: 7%;
-    line-height: 30px;
+    line-height: 35px;
 }
 
 .half-part img {
@@ -51,4 +51,9 @@ a:hover {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.half-part p {
+    text-align: justify;
+    width: 80%;
 }
